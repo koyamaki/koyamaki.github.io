@@ -41,6 +41,9 @@ body { font-family: "Guzzo-Cond"; }
 
 .portfolio-row {
   padding-top: 10%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact-row {
@@ -67,6 +70,10 @@ body { font-family: "Guzzo-Cond"; }
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.koyamaki-image {
+  width: 50%;
 }
 
 .portfolio-img {
@@ -110,8 +117,4 @@ a:hover {
 .selected {
   color: #ea372f;
 }
-
-
-
-
 
