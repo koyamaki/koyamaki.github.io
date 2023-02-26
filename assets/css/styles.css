@@ -12,6 +12,11 @@ html {
 
 body { font-family: "Guzzo-Cond"; }
 
+footer {
+  padding-bottom: 100px;
+  background-color: #fcfce4;
+}
+
 .row {
   display: flex;
 }
